@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Lynn Mungai<br>🔥 Tech Enthusiast | 🌱 Backend Dev in Training | 🎯 Finding My Niche<br>📍 "I love tech for all the good and bad—every bug is a plot twist!"<br><br>💻 Current Focus<br>🛠️ Mastering: Backend development (Node.js, Python, APIs, Databases)<br><br>🎨 Frontend Confidence: "I completely trust my frontend skills… TRY ME."<br><br>📚 Soaking Up: System design, algorithms, and tech’s "why" behind the "how"<br>📖 Beyond Code<br>❤️ Romance Novel Junkie: Currently devouring Keeping 13 by Chloe Walsh 📖✨
+👋 Hi, I’m Lynn Mungai<br>🔥 Tech Enthusiast | 🌱 Backend Dev in Training | 🎯 Finding My Niche<br>📍 "I love tech for all the good and bad—every bug is a plot twist!"<br><br>💻 Current Focus<br>🛠️ Mastering: Backend development (Node.js, Python, APIs, Databases)<br><br>🎨 Frontend Confidence: "I completely trust my frontend skills… TRY ME."<br><br>📚 Soaking Up: System design, algorithms, and tech’s "why" behind the "how"<br>📖 Beyond Code<br>❤️ Romance Novel Junkie: Currently devouring Mind Fuck Series by Abby 📖✨
 
 
 ## 🌐 Socials:
